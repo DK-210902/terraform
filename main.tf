@@ -19,3 +19,4 @@ resource "aws_s3_bucket" "morningstar_b20" {
 }
 resource "aws_s3_bucket" "morningstar_b30" {
   bucket = "morningstar-cloudbucketb333444555"
+}
